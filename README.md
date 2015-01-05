@@ -11,6 +11,6 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 ## Blogs
   1. [ericsink](http://ericsink.com/)
 
-## Q&A individuals that will answer all your questions
+## Q&A Professional Software Developers that will answer general topic questions about software.
 [rick4470](https://twitter.com/rick4470)
 [jsonmez](https://twitter.com/jsonmez)
