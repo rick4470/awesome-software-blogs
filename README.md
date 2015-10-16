@@ -7,6 +7,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 
 ## Articles & Posts
   1. [7 steps to becoming a programmer](http://codewithintent.com/7-steps-to-becoming-a-programmer/)
+  2. [competency matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Blogs
   1. [ericsink](http://ericsink.com/)
